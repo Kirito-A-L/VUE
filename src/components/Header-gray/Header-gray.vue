@@ -4,6 +4,9 @@
     <div class="header-content">
       {{headerTitle}}
 
+
+
+
       <slot></slot>
     </div>
   </div>
