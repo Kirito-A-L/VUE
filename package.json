@@ -2,7 +2,7 @@
   "name": "vuecli",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "唐向荣 <641418330@qq.com>",
+  "author": "Kirito-A-L <694044061@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
